@@ -1,4 +1,4 @@
-full_hash=689dc539e986a7f4cce1d9439218bc78abc52138
-short_hash=689dc53
-message=反重力缓存
-date=2026-05-21 20:50:15 +0800
+full_hash=70602b1bdaf8d038adf3ea67d3bb79b50d2fe212
+short_hash=70602b1
+message=feat: add gemini-3.5-flash and disable preview 404 retry
+date=2026-06-19 03:10:59 -0700
